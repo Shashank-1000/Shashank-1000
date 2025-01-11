@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shashank-1000
-- 👀 I’m interested in machine learning and deep learning concepts
+- 👀 I’m interested in machine learning, deep learning and geberative AI concepts.
 - 🌱 I’m currently a 4th year B.tech student studying AI and ML.
 - 💞️ I’m looking to collaborate with any ML , DL projects
 - 📫 How to reach me sharmashashank1980@gmail.com
